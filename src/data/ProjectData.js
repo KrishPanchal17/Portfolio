@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img:"Portfolio/public/Diabetes.png",
+    img:"https://krishpanchal17.github.io/Portfolio/Diabetes.png",
     title: "Diabetes Patient Care using AI Chatbot",
     description:
       "A website-based AI chatbot to predict diabetic patient risk with a user-friendly interface using HTML, CSS, JavaScript, Flask (Python).",
@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "soon...",
   },
   {
-    img: "/renr-responsive.png",
+    img: "https://krishpanchal17.github.io/Portfolio/renr-responsive.png",
     title: "IPL Stats Management System",
     description:
       "A system to manage and display IPL statistics, ensuring efficient data retrieval and display using Java and MySQL.",
@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url: "soon",
   },
   {
-    img: "/SL.png",
+    img: "https://krishpanchal17.github.io/Portfolio/SL.png",
     title: "Akshar Paul NGO Website",
     description:
       "A website developed for Akshar Paul NGO, featuring a login system for students, volunteers, and data management using Flask, MySQL, and HTML, CSS and JavaScript.",
