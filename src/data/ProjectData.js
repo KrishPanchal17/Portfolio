@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img:"Portfolio/public/Diabetes.png",
+    img:"/public/Diabetes.png",
     title: "Diabetes Patient Care using AI Chatbot",
     description:
       "A website-based AI chatbot to predict diabetic patient risk with a user-friendly interface using HTML, CSS, JavaScript, Flask (Python).",
