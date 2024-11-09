@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KrishPanchal17/Portfolio/static/css/main.7ebd932c.css",
+    "main.js": "/KrishPanchal17/Portfolio/static/js/main.92fb6c6d.js",
+    "index.html": "/KrishPanchal17/Portfolio/index.html",
+    "static/media/blob-haikei.svg": "/KrishPanchal17/Portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.7ebd932c.css.map": "/KrishPanchal17/Portfolio/static/css/main.7ebd932c.css.map",
+    "main.92fb6c6d.js.map": "/KrishPanchal17/Portfolio/static/js/main.92fb6c6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ebd932c.css",
+    "static/js/main.92fb6c6d.js"
+  ]
+}
