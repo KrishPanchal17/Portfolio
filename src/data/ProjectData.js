@@ -1,12 +1,12 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/Diabetes.png",
+    img:"Portfolio/public/Diabetes.png",
     title: "Diabetes Patient Care using AI Chatbot",
     description:
       "A website-based AI chatbot to predict diabetic patient risk with a user-friendly interface using HTML, CSS, JavaScript, Flask (Python).",
     tech_stack: ["HTML", "CSS", "JavaScript", "MySQL", "Python", "Flask"],
-    github_url: "https://github.com/your-github-username/diabetic-patient-care",
+    github_url: "https://github.com/Jayu1214/Diabetes-Prediction-Using-Chatbot.git",
     demo_url: "soon...",
   },
   {
@@ -15,7 +15,7 @@ export const ProjectList = [
     description:
       "A system to manage and display IPL statistics, ensuring efficient data retrieval and display using Java and MySQL.",
     tech_stack: ["Java", "MySQL", "MS Excel"],
-    github_url: "https://github.com/your-github-username/ipl-stats-management-system",
+    github_url: "https://github.com/kshitij0318/CricketManagementSystem.git",
     demo_url: "soon",
   },
   {
@@ -24,7 +24,7 @@ export const ProjectList = [
     description:
       "A website developed for Akshar Paul NGO, featuring a login system for students, volunteers, and data management using Flask, MySQL, and HTML, CSS and JavaScript.",
     tech_stack: ["Flask", "MySQL", "HTML", "CSS", "JavaScript", "Python", "MS Excel"],
-    github_url: "https://github.com/your-github-username/akshar-paul-website",
+    github_url: "https://github.com/KrishPanchal17/Service-Learning-Website.git",
     demo_url: "soon....",  // Replace with actual demo URL if available
   }
 ];
