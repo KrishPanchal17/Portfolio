@@ -1,50 +1,32 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    img: "/Diabetes.png",
+    title: "Diabetes Patient Care using AI Chatbot",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
-    github_url: "",
-    demo_url: "https://youknowtheending.net/",
+      "A website-based AI chatbot to predict diabetic patient risk with a user-friendly interface using HTML, CSS, JavaScript, Flask (Python).",
+    tech_stack: ["HTML", "CSS", "JavaScript", "MySQL", "Python", "Flask"],
+    github_url: "https://github.com/your-github-username/diabetic-patient-care",
+    demo_url: "soon...",
   },
   {
     img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    title: "IPL Stats Management System",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
-    github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+      "A system to manage and display IPL statistics, ensuring efficient data retrieval and display using Java and MySQL.",
+    tech_stack: ["Java", "MySQL", "MS Excel"],
+    github_url: "https://github.com/your-github-username/ipl-stats-management-system",
+    demo_url: "soon",
   },
   {
-    img: "/mymind-responsive.png",
-    title: "MyMind",
+    img: "/SL.png",
+    title: "Akshar Paul NGO Website",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
-  },
-  {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
-    description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
-  },
-  {
-    img: "/jobDetect.png",
-    title: "JobDetect",
-    description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
-  },
+      "A website developed for Akshar Paul NGO, featuring a login system for students, volunteers, and data management using Flask, MySQL, and HTML, CSS and JavaScript.",
+    tech_stack: ["Flask", "MySQL", "HTML", "CSS", "JavaScript", "Python", "MS Excel"],
+    github_url: "https://github.com/your-github-username/akshar-paul-website",
+    demo_url: "soon....",  // Replace with actual demo URL if available
+  }
 ];
 
 // --------------------------------------- Skills
@@ -67,28 +49,12 @@ export const stackList = [
     name: "ReactJS",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
-    name: "NextJs",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
-    name: "Typescript",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-    name: "React Native",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
     name: "NodeJS",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
-    name: "Firebase",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
@@ -107,6 +73,10 @@ export const stackList = [
     name: "C",
   },
   {
+    img: "https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png",
+    name: "C++",
+  },
+  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
     name: "Java",
   },
@@ -115,23 +85,7 @@ export const stackList = [
     name: "MySQL",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
-    name: "Bootstrap",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg",
-    name: "Material UI",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg",
-    name: "Figma",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
-    name: "TailwindCSS",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
     name: "VS Code",
-  },
+  }
 ];
