@@ -1,5 +1,5 @@
 **Portfolio**
-Live Preview - [Click Here](/https://krishpanchal17.github.io/Portfolio/)
+Live Preview - [Click Here](https://krishpanchal17.github.io/Portfolio/)
 
 <strong>Krish Panchal's Portfolio</strong><br></br>
 Welcome to my personal portfolio! This project showcases my skills, experience, and projects in a visually appealing and interactive format. Through this portfolio, I aim to highlight my journey in software development and demonstrate my expertise in web development, database management, and data structures.<br></br>
