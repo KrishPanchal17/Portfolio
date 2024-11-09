@@ -1,45 +1,9 @@
 **Portfolio**
-Live Preview - [Click Here](https://salesp07.github.io/)
+Live Preview - [Click Here](/https://krishpanchal17.github.io/Portfolio/)
 
-<br/>
-<div align="center">
-  <img alt="Demo" src="public/mockup.png" />
-</div>
-<br/>
-<br/>
-
-# 🛠 Installation and Setup Instructions
-
-1. Fork and clone this repository. You will need NodeJs and Git installed on your machine..
-
-2. Installation: `npm install --legacy-peer-deps`
-
-3. In the project directory, you can run: `npm start`\
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-# Usage Instructions
-
-1. Open the project folder and Navigate to `/src/assets/data` and add your projects details.
-
-2. You will find all the components used and you can edit your information accordingly.
-
-# Deploy with Github Pages
-
-1. Name your fork `<your-github-username>.github.io`
-2. Edit the `homepage` property on your `package.json` file
-
-      `"homepage": "http://<your-github-username>.github.io/"`
-
-
-3. Deploy the app
-
-   `npm run deploy`
-
-## Contribute
-
-Pull Requests are welcome :)
-
-## Show your support
-
-Give a ⭐ if you like this website!
+Krish Panchal's Portfolio
+Welcome to my personal portfolio! This project showcases my skills, experience, and projects in a visually appealing and interactive format. Through this portfolio, I aim to highlight my journey in software development and demonstrate my expertise in web development, database management, and data structures.
+Pictures:
+![Screenshot 2024-11-09 145736](https://github.com/user-attachments/assets/b3775b4a-05d9-4af4-8f9c-0382b5c1a632)
+Credits
+This portfolio was inspired by the work of [salesp07](https://salesp07.github.io). Their creative design helped shape the style and interactivity of this portfolio.
